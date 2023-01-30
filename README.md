@@ -1,8 +1,4 @@
-# TXON_Task-01
-
-## Task 1 - Landing Page
-
-Create a online Meal landing page using HTML, CSS
+# Landing Page
 
 ## Screenshort:
 1. Home Page:
